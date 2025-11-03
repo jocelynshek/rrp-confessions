@@ -1,0 +1,12 @@
+# Ignore data files and temporary caches
+data/
+__pycache__/
+*.log
+*.csv
+*.txt
+
+# Keep your script, requirements, and readme
+!.gitignore
+!crawl_jep.py
+!requirements.txt
+!README.md
