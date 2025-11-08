@@ -4,6 +4,7 @@ __pycache__/
 *.log
 *.csv
 *.txt
+rrpenv/
 
 # Keep your script, requirements, and readme
 !.gitignore
